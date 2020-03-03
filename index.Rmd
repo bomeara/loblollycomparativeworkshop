@@ -1,0 +1,25 @@
+---
+title: "Loblolly Comparative Workshop"
+---
+
+![](logo_loblolly-01.png)
+
+This is a workshop on comparative methods, organized by Jeremy Beaulieu and Brian O'Meara. It is supported by NSF Grants _____. It will be held July 20-24, 2020, in Fayetteville, Arkansas (though we are watching the coronavirus outbreak).
+
+Our goal with the course is to create an inclusive, welcoming place to learn comparative methods. One objective is to provide geographic diversity: there are courses at [Friday Harbor on Evolutionary Quantitative Genetics](https://fhl.uw.edu/courses/course-descriptions/course/evolutionary-quantitative-genetics-workshop-2020/), [Woods Hole Workshop on Molecular Evolution](https://www.mbl.edu/education/courses/workshop-on-molecular-evolution/), and often a workshop at Bodega Bay in California -- all on the coasts and far from our locations in the southeastern United States. Our workshop should be accessible to many people, including those within an 8 hour drive:
+
+![](driving.png)
+
+Some of the principles of our course:
+
+* We will only teach peer-reviewed, published, open source software students can go home and use immediately.
+The main learning objective will be using techniques to understand biology in a question driven way.
+* We avoid dogmatic approaches: Bayes, likelihood, nonparametric approaches: whatever helps you learn about your system — “the best tool for the job.” In many cases, this will not be the software developed by the instructors, but other software in the field.
+* We will use best practices in teaching: robust code of conduct, reproducible examples, commitment to diversity.
+* All course materials and presentations will be available online.
+* The course will be housed in a location in the US Southeast in order to be cheap for travel for students for whom the other courses may be prohibitively expensive. However, at least at the time of planning each year’s course, the course will only be sited in a state that is not subject to a travel ban from other states (i.e., due to California’s ban this excludes Kansas, Mississippi, North Carolina, Tennessee, Alabama, Kentucky, Oklahoma, and Texas but currently still leaves Arkansas, Virginia, Georgia, South Carolina, Florida, Louisiana). If new bans are enacted, the course will be relocated if possible.
+* The course will be sustainable year over year -- NSF grants will help support it, but it will be priced so it will run year to year.
+* In this first year the per student cost is $___, which includes room and board.
+
+
+<iframe src="https://docs.google.com/forms/d/1J18Y4h6RRUdnmg9vI9dt6CUwOdgVYMkDASTQiZfMoFc/viewform?embedded=true" width="760" height="3000" frameborder="0" marginwidth="0" marginheight="0"></iframe>

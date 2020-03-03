@@ -1,0 +1,15 @@
+name: loblolly
+output_dir: '.'
+navbar:
+  title: Loblolly Comparative Workshop
+  left:
+  - text: Home
+    href: index.html
+
+output:
+  html_document:
+    theme: flatly
+    lib_dir: site_libs
+    self_contained: no
+    includes:
+       in_header: GA_Script.html
